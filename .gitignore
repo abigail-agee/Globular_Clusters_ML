@@ -12,4 +12,6 @@ Data_Wrangling/Data_Combination.ipynb
 !**/Plots/Performance_Plots/Oxygen_Points/.gitignore
 !**/Plots/Performance_Plots/Sodium_Points/.gitignore
 
-**/*-checkpoint.ipynb
+*-checkpoint.ipynb
+Utilities/__pycache__/
+
